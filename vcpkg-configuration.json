@@ -8,7 +8,7 @@
 		{
 			"kind": "git",
 			"repository": "https://github.com/nbeig/vcpkg_registry",
-			"baseline": "dacf2eb65856c38c611567a2f723d2e7a18f481b",
+			"baseline": "08ee29df03082b6e8f5e1a83f85de2bc80e884e0",
 			"packages": [
 				"opengv"
 			]
