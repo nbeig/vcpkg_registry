@@ -4,5 +4,14 @@
 		"repository": "https://github.com/microsoft/vcpkg",
 		"baseline": "779ce74ef67d3e12d904da1b15f9ed5626d5f677"
 	},
-	"registries": []
+	"registries": [
+		{
+			"kind": "git",
+			"repository": "https://github.com/nbeig/vcpkg_registry",
+			"baseline": "dac5c6546d0311f8c9f0f9bbe8e24033c5d425d5",
+			"packages": [
+				"opengv"
+			]
+		}
+	]
 }
