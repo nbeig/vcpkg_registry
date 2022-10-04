@@ -1,0 +1,14 @@
+{
+	"name": "cadstar",
+	"version": "1.1",
+	"dependencies": [
+		"openssl",
+		"opengv"
+	],
+	"overrides": [
+		{
+			"name": "opengv",
+			"version-string": "1.0.0"
+		}
+	]
+}
